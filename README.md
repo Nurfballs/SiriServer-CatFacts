@@ -18,7 +18,8 @@ You can add your own cat facts by editing `catfacts.txt`. One fact per line.
 
 Functions
 ---------
-* Display a random Cat Fact!
+**Display a random Cat Fact!**
+***
 
 Listen String: `*cat fact.*`
 
