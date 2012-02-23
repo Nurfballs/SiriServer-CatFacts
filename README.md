@@ -3,7 +3,7 @@ CatFacts.py
 
 Description
 -----------
-Annoy your friends or fill your frontal lobes with random facts about feline phenomenon!
+Frustrate your friends or fill your frontal lobes with facts about feline phenomenon!
 
 Files
 -----
